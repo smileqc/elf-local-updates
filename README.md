@@ -1,6 +1,6 @@
-# 宝可梦手机单机版
+# 精灵手机单机版
 
-## [点击下载最新版安卓客户端](https://github.com/smileqc/pokemon-local-updates/releases/latest/download/pokemon-offline.apk)
+## [点击下载最新版安卓客户端](https://github.com/smileqc/elf-local-updates/releases/latest/download/elf-offline.apk)
 
 新设备：安装 APK → 打开 → 进入手机存档 → 自动下载完整资源 → 在游戏内创建角色。建议预留 10 GB 空间，首次资源约 3 GB。
 
@@ -8,6 +8,6 @@
 
 网络不可达时，已装完整资源的设备可继续原单机版本，联网后再检查更新。首次尚无资源的设备需联网完成下载。
 
-[更新版本与文件](https://github.com/smileqc/pokemon-local-updates/releases/latest)
+[更新版本与文件](https://github.com/smileqc/elf-local-updates/releases/latest)
 
 此仓库只发布安卓客户端、已校验资源分包和签名更新清单。
